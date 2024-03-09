@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on autonomus drones for security
+🌱 I’m currently learning ...as usuall
+👯 I’m looking to collaborate on projects
