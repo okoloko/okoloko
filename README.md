@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on autonomus drones and robots for national security
 - 👯 I am an Author of two books in Embedded Systems: <a href="https://www.amazon.com/PIC-EXPERIMENTS-LAB-BOOK-PIC16F877A-ebook/dp/B07PHLGMNB/">PIC16F877A AND XC8</a> and  <a href="https://www.amazon.com/PIC-Experiments-Lab-Book-PIC18F2431-ebook/dp/B08K5NKS4Y/">PIC18F2431 and XC8</a>
 - 🌱 My programming experience: Python, Java, C, C++, JavaScript, SQL
-- 🌱 My technical experience: Embedded Systems, Robotics, Aerospace Systems 
+- 🌱 My technical experience: Embedded Systems, Robotics, Aerospace Systems, Mechatronics
 - 🌱 I’m currently learning more about GitHub
 - 👯 I’m looking to collaborate on tech projects
 - 📫 How to reach me: <a href="mailto:okolokoinno@yahoo.com">okolokoinno@yahoo.com</a>
