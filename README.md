@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- My name is Innocent
 <!--
 **okoloko/okoloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I have a YouTube channel: <a href="https://www.youtube.com/@innocentokoloko">Innocent Okoloko</a>
 - 🔭 I’m currently working on autonomus drones for security
 - 🌱 I’m currently learning ...as usuall
 - 👯 I’m looking to collaborate on projects
