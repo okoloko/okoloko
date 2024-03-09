@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on autonomus drones for security
+- 🔭 I’m currently working on autonomus drones and robots for security
 - 🌱 I’m currently learning ...as usuall
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with ...
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I have a YouTube channel: <a href="https://www.youtube.com/@innocentokoloko">Innocent Okoloko</a>
 - 🔭 I’m currently working on autonomus drones for security
-- 🌱 I’m currently learning ...as usuall
-- 👯 I’m looking to collaborate on projects
+- 🌱 I’m currently learning more about GitHub
+- 👯 I’m looking to collaborate on tech projects
